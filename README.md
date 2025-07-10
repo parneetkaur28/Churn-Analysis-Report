@@ -2,7 +2,7 @@
 
 This repository contains a Power BI dashboard designed for **Telecom Churn Analysis**. The dashboard provides key insights into customer churn trends, leveraging data modeling, SQL, and advanced DAX measures for interactive and visual storytelling.
 
-<img width="895" height="503" alt="Screenshot 2025-07-10 165621" src="https://github.com/user-attachments/assets/8891e3ea-5990-4f7a-a459-5178210242da" />
+<img width="864" height="492" alt="image" src="https://github.com/user-attachments/assets/27cf29f9-f4e9-4f11-9953-9769f512caf4" />
 
 ---
 
